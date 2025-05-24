@@ -1,5 +1,5 @@
 
-| 언급            | 징후                                      |
+| 역활            | 종류                                      |
 |-----------------|-------------------------------------------|
 | Programming Language | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) |
 | Development     | [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com) |
