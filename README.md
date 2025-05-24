@@ -14,6 +14,6 @@ AI
 | Programming Language  | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) |
 | Development           | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com) |
 | Technology            | [![Fine-tuning](https://img.shields.io/badge/Fine_tuning-000000?style=flat-square)](https://en.wikipedia.org/wiki/Fine-tuning) [![STT-Whisper](https://img.shields.io/badge/STT_Whisper-000000?style=flat-square)](https://github.com/openai/whisper) [![TTS-Zonos](https://img.shields.io/badge/TTS_Zonos-000000?style=flat-square)](https://github.com/Zyphra/Zonos) |
-| Deploy                | [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCA28?style=flat-square&logo=huggingface)](https://huggingface.co) |
+| Deploy                | [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCA28?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co) |
 | Server                | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) |
 | OS                    | [![CentOS](https://img.shields.io/badge/CentOS-932279?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org) |
