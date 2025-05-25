@@ -10,4 +10,3 @@ https://velog.io/@eunjnnn/Understanding-the-Mel-Spectrogram
 https://huggingface.co/learn/audio-course/ko/chapter1/audio_data
 
 https://openai.com/index/whisper/
-![image](https://github.com/user-attachments/assets/64c8fe03-0ccf-403a-bcfb-b9eefcbd5676)
