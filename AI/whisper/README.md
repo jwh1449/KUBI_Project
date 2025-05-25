@@ -2,11 +2,22 @@ Fine-tuning-model url
 
 https://huggingface.co/jwh1449/whisper_small_test
 
+Raw Data
+
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=123 (Using)
+
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71490 (Fail)
+
+
 Data Processing url
 
-https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset 
+https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset (Using)
 
-https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset2
+https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset2 (Using)
+
+https://huggingface.co/datasets/jwh1449/AIhub_foreign_dataset (Fail)
+
+https://huggingface.co/datasets/jwh1449/AIhub_foreign_dataset4 (Fail)
 
 참고 자료
 
