@@ -16,3 +16,5 @@ https://blog.rtzr.ai/korean-speechai-benchmark/
 https://github.com/rtzr/Awesome-Korean-Speech-Recognition
 
 https://www.eksss.org/archive/view_article?pid=pss-15-3-75
+
+https://kimjy99.github.io/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0/whisper/
