@@ -1,5 +1,5 @@
 
-Data Processing 참고 자료 & 공부
+Data Processing 참고 자료 & 공부 자료
 
 https://today-is.tistory.com/15
 
