@@ -4,7 +4,7 @@ https://huggingface.co/jwh1449/whisper_small_test
 
 Data Processing url
 
-https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset
+https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset 
 https://huggingface.co/datasets/jwh1449/AIhub_KoSpeech_dataset2
 
 참고 자료
