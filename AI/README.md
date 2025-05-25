@@ -14,3 +14,5 @@ https://openai.com/index/whisper/
 https://blog.rtzr.ai/korean-speechai-benchmark/
 
 https://github.com/rtzr/Awesome-Korean-Speech-Recognition
+
+https://www.eksss.org/archive/view_article?pid=pss-15-3-75
