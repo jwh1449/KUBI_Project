@@ -10,3 +10,5 @@ https://velog.io/@eunjnnn/Understanding-the-Mel-Spectrogram
 https://huggingface.co/learn/audio-course/ko/chapter1/audio_data
 
 https://openai.com/index/whisper/
+
+https://blog.rtzr.ai/korean-speechai-benchmark/
