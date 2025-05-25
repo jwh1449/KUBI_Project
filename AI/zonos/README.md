@@ -1,7 +1,7 @@
 
 참고 자료
 
-main-tts(Zonos)
+Using-tts(Zonos)
 
 https://github.com/Zyphra/Zonos
 
