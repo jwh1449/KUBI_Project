@@ -1,0 +1,46 @@
+name: Run Update_database.py every Monday at 1 AM KST
+
+on:
+  schedule:
+    - cron: '0 16 * * 0'  # 매주 월요일 오전 1시 (KST 기준, UTC로는 일요일 16시)
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Azure CLI
+        run: |
+          curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+
+      - name: Log in to Azure
+        uses: azure/login@v1
+        with:
+          client-id: ${{ your_CLIENT_ID }}
+          client-secret: ${{ your_CLIENT_SECRET }}
+          tenant-id: ${{ your_TENANT_ID }}
+          subscription-id: ${{ your_SUBSCRIPTION_ID }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+
+      - name: Install system dependencies for pyodbc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unixodbc-dev
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Update_database.py script
+        run: python Update_database.py
